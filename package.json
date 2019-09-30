@@ -1,0 +1,13 @@
+{
+  "name": "react-native-simple-youtube-player",
+  "version": "0.0.1",
+  "description": "A <YouTubePlayer /> for React Native, without SDK or API dependencies.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/react-native-simple-youtube",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-native-webview": "^7.4.0"
+  }
+}
