@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A <YouTubePlayer /> for React Native, without SDK or API dependencies.",
   "main": "index.js",
-  "repository": "https://github.com/cawfree/react-native-simple-youtube",
+  "repository": "https://github.com/cawfree/react-native-simple-youtube-player",
   "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
   "license": "MIT",
   "private": false,
