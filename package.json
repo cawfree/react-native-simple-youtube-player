@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-youtube-player",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A <YouTubePlayer /> for React Native, without SDK or API dependencies.",
   "main": "index.js",
   "repository": "https://github.com/cawfree/react-native-simple-youtube-player",
