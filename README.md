@@ -20,11 +20,14 @@ yarn add react-native-simple-youtube-player
 The `<SimpleYouTubePlayer/>` exported by this library is trivial to get started with; after all, it _is_ just a `<WebView/>`. Just define the `videoId` of the content you wish to render, and the `style` of your `<WebView/>`, and away you go!
 
 ```javascript
+import React from 'react';
+import { WebView } from 'react-native';
 import SimpleYouTubePlayer from 'react-native-simple-youtube-player';
 
 export default () => (
   <SimpleYouTubePlayer
     style={{ flex: 1 }}
+    WebView={WebView}
     videoId="BxYsnSnV6cQ"
   />
 );
